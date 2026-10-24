@@ -1,0 +1,16 @@
+{
+ "platform": "Linux-6.18.34+rpt-rpi-2712-aarch64-with-glibc2.41",
+ "machine": "aarch64",
+ "cpu_count": 4,
+ "ram_gb": 15.8,
+ "model_file": "qwen2.5-3b-instruct-q4_k_m.gguf",
+ "embedding_model": "BAAI/bge-m3",
+ "network_during_run": "offline (isolated)",
+ "pack_verify_ms": 7.144626999433967,
+ "pack_load_ms": 2691.5118999995684,
+ "tamper_test_rejected": true,
+ "tamper_reason": "hash mismatch: corpus.json",
+ "throttled_at_end": "throttled=0x0",
+ "temp_at_end": "temp=52.1'C",
+ "power_sampling": true
+}

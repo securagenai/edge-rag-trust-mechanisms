@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+models/
+llama.cpp/
+pack/
+pack_v2/
+packs_v3/
+keys_v3/
+*.gguf
+*.pem

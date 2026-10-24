@@ -1,0 +1,13 @@
+{
+  "title": "Code and data: Trust Mechanisms for Offline Generative AI at the Edge",
+  "upload_type": "software",
+  "description": "Code, per-query outputs, and analysis scripts for the paper \"Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5\". Includes the Raspberry Pi 5 experiment scripts (network-isolated retrieval-augmented generation with Qwen2.5 models, signed knowledge packs, update-security tests, signed poisoning, entailment verification), all released per-query results, and a one-command script that regenerates every table value. Original code under the MIT licence; derived SQuAD 2.0 data under CC BY-SA 4.0.",
+  "creators": [
+    {"name": "Feretzakis, Georgios", "affiliation": "securagen.ai"},
+    {"name": "Papaspyridis, Alexandros", "affiliation": "securagen.ai"}
+  ],
+  "license": "MIT",
+  "keywords": ["edge intelligence", "large language models", "retrieval-augmented generation", "abstention", "air-gapped systems", "trustworthy AI", "Internet of Things", "Raspberry Pi"],
+  "version": "1.0.0",
+  "language": "eng"
+}

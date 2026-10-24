@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Code and data: Trust Mechanisms for Offline Generative AI at the Edge"
+version: 1.0.0
+date-released: 2026-10-24
+license: MIT
+authors:
+  - family-names: Feretzakis
+    given-names: Georgios
+    affiliation: securagen.ai
+  - family-names: Papaspyridis
+    given-names: Alexandros
+    affiliation: securagen.ai
+preferred-citation:
+  type: article
+  title: "Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5"
+  authors:
+    - family-names: Feretzakis
+      given-names: Georgios
+    - family-names: Papaspyridis
+      given-names: Alexandros
+  year: 2026
+  notes: "Preprint; add the arXiv identifier and the Zenodo DOI once assigned."

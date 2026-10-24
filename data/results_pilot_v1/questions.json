@@ -1,0 +1,2269 @@
+[
+ {
+  "qid": "5727cff1ff5b5019007d95c6",
+  "question": "What project did Harvard halt due to the financial crisis?",
+  "golds": [
+   "Allston Science Complex",
+   "Allston Science Complex",
+   "construction of the $1.2 billion Allston Science Complex"
+  ],
+  "gold_pid": 614,
+  "title": "Harvard_University",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5705f13d52bb8914006896f4",
+  "question": "How many counties initially made up the definition of southern California?",
+  "golds": [
+   "seven",
+   "seven",
+   "seven"
+  ],
+  "gold_pid": 99,
+  "title": "Southern_California",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5727de862ca10214002d9862",
+  "question": "Who is the Costa Rican President that went to Harvard?",
+  "golds": [
+   "Jos\u00e9 Mar\u00eda Figueres",
+   "Jos\u00e9 Mar\u00eda Figueres",
+   "Jos\u00e9 Mar\u00eda Figueres"
+  ],
+  "gold_pid": 627,
+  "title": "Harvard_University",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "572a18a4af94a219006aa7e1",
+  "question": "What does a 2013 report on Nigeria suggest it's growth has done?",
+  "golds": [
+   "risen with increased income inequality",
+   "risen",
+   "risen"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57266e72f1498d1400e8df8c",
+  "question": "What techniques can be used to determine paleotopography?",
+  "golds": [
+   "Thermochemical techniques",
+   "Thermochemical",
+   "Thermochemical",
+   "Thermochemical"
+  ],
+  "gold_pid": 484,
+  "title": "Geology",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5726dcbddd62a815002e9321",
+  "question": "In which two codes were the roles of pharmacists codified?",
+  "golds": [
+   "the Taih\u014d Code (701) and re-stated in the Y\u014dr\u014d Code (718)",
+   "Taih\u014d Code (701) and re-stated in the Y\u014dr\u014d Code",
+   "Taih\u014d Code (701) and re-stated in the Y\u014dr\u014d Code"
+  ],
+  "gold_pid": 504,
+  "title": "Pharmacy",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57293ca73f37b3190047815e",
+  "question": "Who funds the IPCC's Deputy Secretary?",
+  "golds": [
+   "United Nations Environment Programme",
+   "UNEP",
+   "UNEP"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57336755d058e614000b5a40",
+  "question": "What park covers an area of 76 ha.?",
+  "golds": [
+   "\u0141azienki",
+   "\u0141azienki Park",
+   "\u0141azienki Park"
+  ],
+  "gold_pid": 997,
+  "title": "Warsaw",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a551a65134fea001a0e1920",
+  "question": "X.25 networks were helped by what? ",
+  "golds": [],
+  "gold_pid": 445,
+  "title": "Packet_switching",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad0316a77cf76001a686de4",
+  "question": "What are the second and third most populated megalopolis after Southern California?",
+  "golds": [],
+  "gold_pid": 101,
+  "title": "Southern_California",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572a1fe16aef0514001552d4",
+  "question": "What would income differentials be if individual contributions were relevant to the social product?",
+  "golds": [
+   "reflective",
+   "reflective",
+   "reflective of individual contributions"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729d609af94a219006aa664",
+  "question": "What does the substitution of equipment for labor raise for workers?",
+  "golds": [
+   "productivity",
+   "organic composition of capital",
+   "productivity"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729f3831d0469140077967e",
+  "question": "What are dart frogs are known to secrete?",
+  "golds": [
+   "lipophilic alkaloid toxins",
+   "lipophilic alkaloid toxins",
+   "lipophilic alkaloid toxins"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729f0db6aef051400155127",
+  "question": "How many species of bird and mammals are there in the Amazon region?",
+  "golds": [
+   "2,000",
+   "some 2,000",
+   "2,000"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5acfee4777cf76001a68655f",
+  "question": " What did the Taliban want to subject a small part of the country to?",
+  "golds": [],
+  "gold_pid": 929,
+  "title": "Islamism",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572a070c6aef0514001551c8",
+  "question": "What did higher material living standards lead to for most of human history?",
+  "golds": [
+   "better health and longer lives",
+   "better health and longer lives",
+   "better health and longer lives"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729ea263f37b319004785c0",
+  "question": "How many miles across the Atlantic Ocean does Saharan dust travel?",
+  "golds": [
+   "1,600 miles",
+   "1,600",
+   "1,600"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5725be0f271a42140099d11b",
+  "question": "Did the rainforest managed to thrive during the glacial periods? ",
+  "golds": [
+   "However, the rainforest still managed to thrive during these glacial periods, allowing for the survival and evolution of a broad diversity of species.",
+   "still managed to thrive"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5728349dff5b5019007d9f00",
+  "question": "In what country can most of the Amazon rainforest be found?",
+  "golds": [
+   "Brazil",
+   "Brazil",
+   "Brazil"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "572a064a3f37b31900478660",
+  "question": "The Peruvian Amazon indigienous people are one group struggling in the Amazon, what is another group?",
+  "golds": [
+   "Urarina",
+   "Urarina",
+   "Urarina"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5ad3ffef604f3c001a3ffcaf",
+  "question": "What non-Japanese empire did the Yuan dynasty succeed?",
+  "golds": [],
+  "gold_pid": 689,
+  "title": "Yuan_dynasty",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57108198b654c5140001f937",
+  "question": "How many protestants live in France today?",
+  "golds": [
+   "one million",
+   "Approximately one million",
+   "Approximately one million"
+  ],
+  "gold_pid": 184,
+  "title": "Huguenot",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5729f24baf94a219006aa6e0",
+  "question": "What do the owners of more capital end up having?",
+  "golds": [
+   "more wealth",
+   "more wealth and income",
+   "wealth and income"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5ad566375b96ef001a10add1",
+  "question": "What would indicate that there is a known polynomial-time solution for Ii1?",
+  "golds": [],
+  "gold_pid": 71,
+  "title": "Computational_complexity_theory",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57264cfa708984140094c1c5",
+  "question": "What does the 9 +3 pattern of cilia thought to do?",
+  "golds": [
+   "supporting function",
+   "suspected to have a supporting function",
+   "a supporting function"
+  ],
+  "gold_pid": 380,
+  "title": "Ctenophora",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad04de377cf76001a686fa9",
+  "question": "What is the United State's second-busiest commercial port?",
+  "golds": [],
+  "gold_pid": 120,
+  "title": "Southern_California",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572a03a06aef0514001551ad",
+  "question": "How long may the Amazon rainforest be threatened, according to some computer models?",
+  "golds": [
+   "though the 21st century",
+   "though the 21st century",
+   "though the 21st century"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "572a1ba46aef051400155292",
+  "question": "What can it sometimes take up to 14 years to get permission to build on?",
+  "golds": [
+   "government land",
+   "government land",
+   "government land"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "572a0bf96aef051400155207",
+  "question": "What is the chemical that mediates Type 1 hypersensitivity?",
+  "golds": [
+   "IgE",
+   "IgE",
+   "IgE"
+  ],
+  "gold_pid": 776,
+  "title": "Immune_system",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "572843304b864d1900164848",
+  "question": "In 1890, who did the university decide to team up with?",
+  "golds": [
+   "several regional colleges and universities",
+   "Des Moines College, Kalamazoo College, Butler University, and Stetson University",
+   "Des Moines College, Kalamazoo College, Butler University, and Stetson University",
+   "Des Moines College, Kalamazoo College, Butler University, and Stetson University"
+  ],
+  "gold_pid": 655,
+  "title": "University_of_Chicago",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a1c60f0b4fb5d0018714612",
+  "question": "What are some of the minor factors in the local economy?",
+  "golds": [],
+  "gold_pid": 632,
+  "title": "Jacksonville,_Florida",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5730131c947a6a140053d053",
+  "question": "Over 100 Egyptian police were victims of what group's campaign of terror?",
+  "golds": [
+   "al-Gama'a al-Islamiyya",
+   "al-Gama'a al-Islamiyya",
+   "Islamic Group"
+  ],
+  "gold_pid": 922,
+  "title": "Islamism",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "572882242ca10214002da422",
+  "question": "When was earthenware movable type invented?",
+  "golds": [
+   "in the 12th century",
+   "12th century",
+   "the 12th century"
+  ],
+  "gold_pid": 726,
+  "title": "Yuan_dynasty",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a7b325021c2de001afe9da9",
+  "question": "What divides Downtown Fresno?",
+  "golds": [],
+  "gold_pid": 415,
+  "title": "Fresno,_California",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5732b6b5328d981900602022",
+  "question": "On what river does Warsaw stand?",
+  "golds": [
+   "Vistula",
+   "Vistula River",
+   "Vistula"
+  ],
+  "gold_pid": 976,
+  "title": "Warsaw",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5727482bf1498d1400e8f5a6",
+  "question": "What type of education is sometimes present at religious schools in addition to the secular curriculum?",
+  "golds": [
+   "religious",
+   "religious",
+   "the usual academic subjects"
+  ],
+  "gold_pid": 577,
+  "title": "Private_school",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad0301577cf76001a686db4",
+  "question": "What did not serve as a justification for imposing imperialistic policies on certain peoples or regions?",
+  "golds": [],
+  "gold_pid": 957,
+  "title": "Imperialism",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57293f8a6aef051400154be1",
+  "question": "Why were the 2011 Special Reports issued?",
+  "golds": [
+   "requested by governments",
+   "requested by governments",
+   "requested by governments."
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5a5508f5134fea001a0e182a",
+  "question": "How many focuses where there in report P-2626?",
+  "golds": [],
+  "gold_pid": 432,
+  "title": "Packet_switching",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572943ab1d0469140077921c",
+  "question": "Who was chairman of the House Science Committee?",
+  "golds": [
+   "Sherwood Boehlert",
+   "Sherwood Boehlert",
+   "Sherwood Boehlert"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729e4291d04691400779655",
+  "question": "What does high inequality go hand-in-hand with?",
+  "golds": [
+   "weak labor movements",
+   "weak labor movements",
+   "weak labor movements"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "571c3a685efbb31900334db3",
+  "question": "Of what group in the periodic table is oxygen a member?",
+  "golds": [
+   "chalcogen",
+   "chalcogen",
+   "chalcogen",
+   "chalcogen",
+   "the chalcogen group"
+  ],
+  "gold_pid": 263,
+  "title": "Oxygen",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5725d42a89a1e219009abf5a",
+  "question": "In what town did Bill Aiken grow up?",
+  "golds": [
+   "Madera",
+   "Madera",
+   "Madera"
+  ],
+  "gold_pid": 405,
+  "title": "Fresno,_California",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad3b2e8604f3c001a3fed27",
+  "question": "Who did Shirley not leave at Oswego?",
+  "golds": [],
+  "gold_pid": 1052,
+  "title": "French_and_Indian_War",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5725c071271a42140099d129",
+  "question": "What is the name of the basin that was created from a enclosed lake?",
+  "golds": [
+   "Solim\u00f5es Basin",
+   "Solim\u00f5es Basin",
+   "Solim\u00f5es Basin"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "572a09abaf94a219006aa75c",
+  "question": "The classification of aspects of the Amazon forest is important for mapping what type of emission?",
+  "golds": [
+   "carbon related emissions",
+   "carbon related",
+   "carbon related"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729f1283f37b319004785db",
+  "question": "What has technological innovation and automation replaced low-skilled jobs with?",
+  "golds": [
+   "machine labor",
+   "machine labor",
+   "machine labor"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5ad266f6d7d075001a4291fe",
+  "question": "In an open system of particles, there are no internal what?",
+  "golds": [],
+  "gold_pid": 1080,
+  "title": "Force",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad02cfc77cf76001a686ce6",
+  "question": "The smallest party in Parliament sits in the middle of what?",
+  "golds": [],
+  "gold_pid": 869,
+  "title": "Scottish_Parliament",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572754fff1498d1400e8f662",
+  "question": "What are some existing facilities?",
+  "golds": [
+   "electrical, water, sewage, phone, and cable facilities",
+   "electrical, water, sewage, phone, and cable",
+   "electrical, water, sewage, phone, and cable facilities"
+  ],
+  "gold_pid": 570,
+  "title": "Construction",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5727f16c3acd2414000df05d",
+  "question": "What is the United States at risk for because of the recession of 2008?",
+  "golds": [
+   "boom-and-bust cycles",
+   "boom-and-bust cycles",
+   "boom-and-bust cycles"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5a669b3df038b7001ab0c050",
+  "question": "Who leads the Qwest consortium?",
+  "golds": [],
+  "gold_pid": 449,
+  "title": "Packet_switching",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572ffee1947a6a140053cf17",
+  "question": "Who was Iqbal a critic of?",
+  "golds": [
+   "the mainstream Indian nationalist and secularist Indian National Congress",
+   "mainstream Indian nationalist and secularist Indian National Congress",
+   "mainstream Indian nationalist and secularist Indian National Congress"
+  ],
+  "gold_pid": 907,
+  "title": "Islamism",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57293e221d046914007791d9",
+  "question": "How much has global mean surface air temperature changed in the last century?",
+  "golds": [
+   "increased by 0.3 to 0.6 \u00b0C",
+   "0.3 to 0.6 \u00b0C",
+   "0.3 to 0.6 \u00b0C"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57265746dd62a815002e821a",
+  "question": "Cydippid are typically what shape?",
+  "golds": [
+   "more or less rounded",
+   "egg-shaped",
+   "more or less rounded"
+  ],
+  "gold_pid": 383,
+  "title": "Ctenophora",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57283db6ff5b5019007d9fbe",
+  "question": "Where is the first man-made self-sustaining nuclear reaction located?",
+  "golds": [
+   "beneath the university's Stagg Field",
+   "Stagg Field",
+   "beneath the university's Stagg Field",
+   "beneath the university's Stagg Field"
+  ],
+  "gold_pid": 652,
+  "title": "University_of_Chicago",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5727ef664b864d1900164062",
+  "question": "What can work to even the distribution of wealth?",
+  "golds": [
+   "social spending",
+   "social spending",
+   "steeper tax progressivity applied to social spending"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57294209af94a219006aa204",
+  "question": "What reconstructions supported the 1999 paper's information?",
+  "golds": [
+   "Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",
+   "Jones et al. and Briffa reconstructions",
+   "temperatures increased on the basis of documentary evidence of Medieval vineyards in England"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5737a5931c456719005744ea",
+  "question": "What is another word for centripetal force?",
+  "golds": [
+   "radial",
+   "radial (centripetal) force",
+   "radial",
+   "radial"
+  ],
+  "gold_pid": 1110,
+  "title": "Force",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5acfebe477cf76001a6864d9",
+  "question": " Where did a not-bloody civil war break out?",
+  "golds": [],
+  "gold_pid": 919,
+  "title": "Islamism",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5a6cb66c4eec6b001a80a630",
+  "question": "What other role do many pharmacists avoid?",
+  "golds": [],
+  "gold_pid": 501,
+  "title": "Pharmacy",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572945b11d04691400779232",
+  "question": "How did the 2001 IPCC report compare to reality on sea levels?",
+  "golds": [
+   "actual sea level rise was above the top of the range",
+   "actual sea level rise was above the top of the range",
+   "the actual sea level rise was above the top of the range"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5a83a80ae60761001a2eb855",
+  "question": "What do all other animal phyla lack?",
+  "golds": [],
+  "gold_pid": 399,
+  "title": "Ctenophora",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad288e1d7d075001a429972",
+  "question": "What path changes the direction of an object?",
+  "golds": [],
+  "gold_pid": 1110,
+  "title": "Force",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad4d7395b96ef001a10a2f8",
+  "question": "What is not possible to transfer from one person to another artificially?",
+  "golds": [],
+  "gold_pid": 757,
+  "title": "Immune_system",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5a8203d431013a001a3350bf",
+  "question": "Where were the writings of Plato acclaimed in 1846?",
+  "golds": [],
+  "gold_pid": 606,
+  "title": "Harvard_University",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5a2c07d5bfd06b001a5ae982",
+  "question": "What was the UK's least popular TV service in 2015?",
+  "golds": [],
+  "gold_pid": 134,
+  "title": "Sky_(United_Kingdom)",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5729d878af94a219006aa66f",
+  "question": "What type of outcomes can even stable markets lead to?",
+  "golds": [
+   "unfair",
+   "high levels of inequality",
+   "high levels of inequality"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729f3831d0469140077967b",
+  "question": "Which animal that lives in the Amazon river may produce a deadly shock?",
+  "golds": [
+   "electric eels",
+   "electric eels",
+   "electric eels"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5727ed2e3acd2414000df005",
+  "question": "Who works to get workers higher compensation?",
+  "golds": [
+   "Professional and labor organizations",
+   "Professional and labor organizations",
+   "Professional and labor organizations"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57293f353f37b3190047819c",
+  "question": "What did Lindzen criticize about the Summary for Policymakers?",
+  "golds": [
+   "does not faithfully summarize the full WGI report",
+   "understates the uncertainty associated with climate models",
+   "does not faithfully summarize the full WGI report"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5a838553e60761001a2eb75b",
+  "question": "How are the statocysts spaced?",
+  "golds": [],
+  "gold_pid": 385,
+  "title": "Ctenophora",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5725c0f289a1e219009abdf3",
+  "question": "What does the ctenophora use to swim?",
+  "golds": [
+   "\u2018combs\u2019 \u2013 groups of cilia",
+   "cilia",
+   "cilia"
+  ],
+  "gold_pid": 370,
+  "title": "Ctenophora",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57268c01dd62a815002e8914",
+  "question": "When was ctenophore mnemiopsis leidyi introduced into The Black Sea and the Sea of Azov?",
+  "golds": [
+   "in the late 1980s",
+   "the late 1980s",
+   "late 1980s"
+  ],
+  "gold_pid": 396,
+  "title": "Ctenophora",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a8209f831013a001a335134",
+  "question": "During what period did Radcliffe become prominent as a university?",
+  "golds": [],
+  "gold_pid": 609,
+  "title": "Harvard_University",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57109275b654c5140001f9a2",
+  "question": "The French and Indian War was the New World aspect of what European conflict?",
+  "golds": [
+   "Seven Years' War",
+   "Seven Years' War",
+   "Seven Years' War"
+  ],
+  "gold_pid": 190,
+  "title": "Huguenot",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a605eaae9e1cc001a33cd56",
+  "question": "Is there a situation where the destination can't be discovered?",
+  "golds": [],
+  "gold_pid": 435,
+  "title": "Packet_switching",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad27abcd7d075001a42962b",
+  "question": "What is the average discharge of the Moselle to the Neckar?",
+  "golds": [],
+  "gold_pid": 826,
+  "title": "Rhine",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5acfa23577cf76001a685630",
+  "question": "Who is the founder of the Chicago Cubs and author of the first management accounting text book?",
+  "golds": [],
+  "gold_pid": 678,
+  "title": "University_of_Chicago",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "571154c72419e31400955587",
+  "question": "What percentage of electricity was made by steam turbine in the 1990s?",
+  "golds": [
+   "90",
+   "90%",
+   "90%"
+  ],
+  "gold_pid": 239,
+  "title": "Steam_engine",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5727e9523acd2414000def96",
+  "question": "What is income inequality attributed to?",
+  "golds": [
+   "differences in value added by labor, capital and land",
+   "differences in value added by labor, capital and land",
+   "differences in value added by different classifications of workers"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5725d16aec44d21400f3d61b",
+  "question": "How many species of insects are known in the region?",
+  "golds": [
+   "2.5 million",
+   "2.5 million",
+   "2.5 million"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57376df3c3c5551400e51ed7",
+  "question": "What can keep an object from moving when it is being pushed on a surface?",
+  "golds": [
+   "static friction",
+   "static friction",
+   "friction",
+   "static friction",
+   "applied force"
+  ],
+  "gold_pid": 1085,
+  "title": "Force",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5727e9523acd2414000def98",
+  "question": "What is the term that describes the difference between what higher paid and lower paid professionals earn?",
+  "golds": [
+   "productivity gap",
+   "productivity gap",
+   "productivity gap"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5727b8df3acd2414000dea9b",
+  "question": "In what year was Henry Ware elected to chair?",
+  "golds": [
+   "1805",
+   "1805",
+   "1805"
+  ],
+  "gold_pid": 605,
+  "title": "Harvard_University",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "572a07c11d046914007796d7",
+  "question": "Tribal members living in the rainforests of what region are using Google Earth?",
+  "golds": [
+   "southern Suriname",
+   "southern Suriname",
+   "southern Suriname"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5ad402ce604f3c001a3ffd67",
+  "question": "What type of arch did the Normans invent?",
+  "golds": [],
+  "gold_pid": 31,
+  "title": "Normans",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5729e2b76aef0514001550d0",
+  "question": "How did the education during the high school education movement differ from the subsequent high school education?",
+  "golds": [
+   "designed to equip students with necessary skill sets to be able to perform at work",
+   "designed to equip students with necessary skill sets to be able to perform at work",
+   "designed to equip students with necessary skill sets to be able to perform at work"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729f4273f37b319004785fb",
+  "question": "Where does newly created wealth concentrate? ",
+  "golds": [
+   "the possession of already-wealthy individuals",
+   "in the possession of already-wealthy individuals or entities",
+   "already-wealthy individuals"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5a2c1622bfd06b001a5ae9e0",
+  "question": "What was Virgin Media rebranded as?",
+  "golds": [],
+  "gold_pid": 139,
+  "title": "Sky_(United_Kingdom)",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57265d86f1498d1400e8dd52",
+  "question": "Some species of beroe have a pair of strips of adhesive cells on the stomach wall. What does it do?",
+  "golds": [
+   "zip\" the mouth shut when the animal is not feeding,",
+   "\"zip\" the mouth shut when the animal is not feeding",
+   "\"zip\" the mouth shut when the animal is not feeding"
+  ],
+  "gold_pid": 388,
+  "title": "Ctenophora",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "56e1e9dfe3433e14004231fc",
+  "question": "What is the problem attributed to defining if two finite graphs are isomorphic?",
+  "golds": [
+   "The graph isomorphism problem",
+   "graph isomorphism",
+   "The graph isomorphism problem"
+  ],
+  "gold_pid": 75,
+  "title": "Computational_complexity_theory",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad3b567604f3c001a3fedb6",
+  "question": "How much gun powder was saved?",
+  "golds": [],
+  "gold_pid": 1057,
+  "title": "French_and_Indian_War",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "570d4030fed7b91900d45da1",
+  "question": "What entity owns V/Line?",
+  "golds": [
+   "Victorian Government",
+   "the Victorian Government",
+   "Victorian Government"
+  ],
+  "gold_pid": 162,
+  "title": "Victoria_(Australia)",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57274d1cdd62a815002e9aaf",
+  "question": "How do private schools in Ireland differ from most?",
+  "golds": [
+   "teacher's salaries are paid by the State",
+   "a certain number of teacher's salaries are paid by the State",
+   "certain number of teacher's salaries are paid by the State"
+  ],
+  "gold_pid": 585,
+  "title": "Private_school",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a669d5cf038b7001ab0c060",
+  "question": "NSF grew to connect how many universities?",
+  "golds": [],
+  "gold_pid": 451,
+  "title": "Packet_switching",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5729fd56af94a219006aa731",
+  "question": "What method was used to clear forest for crop cultivation in the amazon forest?",
+  "golds": [
+   "slash and burn method",
+   "slash and burn",
+   "slash and burn"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5730909d8ab72b1400f9c58d",
+  "question": "What did Basset analyze before coming to his conclusions?",
+  "golds": [
+   "nineteenth-century cartographic techniques",
+   "nineteenth-century maps",
+   "nineteenth-century cartographic techniques",
+   "nineteenth-century maps",
+   "role of nineteenth-century maps"
+  ],
+  "gold_pid": 948,
+  "title": "Imperialism",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5733f5264776f419006615a6",
+  "question": "What was the importance of the congress?",
+  "golds": [
+   "format of the congress and many specifics of the plan became the prototype for confederation during the War of Independence",
+   "became the prototype for confederation during the War of Independence",
+   "became the prototype for confederation during the War of Independence",
+   "prototype for confederation",
+   "became the prototype for confederation during the War of Independence"
+  ],
+  "gold_pid": 1050,
+  "title": "French_and_Indian_War",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57283adcff5b5019007d9f95",
+  "question": "How many degrees south did the Amazon rainforest reach from 66-34 Mya?",
+  "golds": [
+   "45",
+   "45\u00b0",
+   "45\u00b0"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5acfe84677cf76001a686407",
+  "question": "Conservative Islam classifies non-Muslims who follow Shia interpretation as what?",
+  "golds": [],
+  "gold_pid": 905,
+  "title": "Islamism",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5a667dae846392001a1e1c55",
+  "question": "What was Report R-2626?",
+  "golds": [],
+  "gold_pid": 432,
+  "title": "Packet_switching",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5a1c8971b4fb5d0018714685",
+  "question": "What happened when public high schools gained accreditation?",
+  "golds": [],
+  "gold_pid": 642,
+  "title": "Jacksonville,_Florida",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5a83a80ae60761001a2eb858",
+  "question": "What is the understanding of neural and muscle cell types important to our understanding of?",
+  "golds": [],
+  "gold_pid": 399,
+  "title": "Ctenophora",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "571cca4add7acb1400e4c152",
+  "question": "At first, what did oxygen and iron combine to form?",
+  "golds": [
+   "banded iron formations",
+   "banded iron formations",
+   "banded iron formations",
+   "banded iron formations",
+   "banded iron"
+  ],
+  "gold_pid": 291,
+  "title": "Oxygen",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5710eb6fb654c5140001fa17",
+  "question": "What was the name of the first Huguenot outpost in South Carolina?",
+  "golds": [
+   "Charlesfort",
+   "Charlesfort",
+   "Charlesfort"
+  ],
+  "gold_pid": 200,
+  "title": "Huguenot",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad0225377cf76001a686b40",
+  "question": "A decline in Scottish nationalism during the 1960s fueled what?",
+  "golds": [],
+  "gold_pid": 860,
+  "title": "Scottish_Parliament",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "571cd3b55efbb31900334e05",
+  "question": "To what pathogen that causes gas gangrene is oxygen poisonous?",
+  "golds": [
+   "anaerobic bacteria",
+   "anaerobic bacteria",
+   "anaerobic bacteria",
+   "anaerobic bacteria",
+   "anaerobic bacteria"
+  ],
+  "gold_pid": 296,
+  "title": "Oxygen",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57294279af94a219006aa20a",
+  "question": "Who led the Science and Environmental Policy Project?",
+  "golds": [
+   "Fred Singer",
+   "Fred Singer",
+   "Fred Singer"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "572a0bebaf94a219006aa773",
+  "question": "How many tons of carbon are absorbed the Amazon in a typical year?",
+  "golds": [
+   "1.5 gigatons",
+   "1.5 gigatons",
+   "1.5 gigatons"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5acfea0677cf76001a686463",
+  "question": " When was Al-Banna born?",
+  "golds": [],
+  "gold_pid": 912,
+  "title": "Islamism",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572695285951b619008f774b",
+  "question": "Which TFEU article defines the ordinary legislative procedure that applies for majority of EU acts?",
+  "golds": [
+   "TFEU article 294",
+   "TFEU article 294",
+   "TFEU article 294",
+   "TFEU article 294"
+  ],
+  "gold_pid": 339,
+  "title": "European_Union_law",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57108c95b654c5140001f97c",
+  "question": "What is located within this district?",
+  "golds": [
+   "the oldest street in the United States of America",
+   "the oldest street in the United States of America",
+   "the oldest street in the United States of America"
+  ],
+  "gold_pid": 185,
+  "title": "Huguenot",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a75054b97ca42001a521dce",
+  "question": "What did the US abandon? ",
+  "golds": [],
+  "gold_pid": 308,
+  "title": "1973_oil_crisis",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57106185b654c5140001f8dd",
+  "question": "What Swiss city was the center of the Calvinist movement?",
+  "golds": [
+   "Geneva",
+   "Geneva",
+   "Geneva"
+  ],
+  "gold_pid": 174,
+  "title": "Huguenot",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad4bea25b96ef001a109ef7",
+  "question": "When was the settlement which would become Boleslaw established?",
+  "golds": [],
+  "gold_pid": 981,
+  "title": "Warsaw",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad4f1c95b96ef001a10a728",
+  "question": "When did the Poland area enlargement take place?",
+  "golds": [],
+  "gold_pid": 1002,
+  "title": "Warsaw",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5725cb33271a42140099d1dc",
+  "question": "What makes ctenophores different from all other animals?",
+  "golds": [
+   "by having colloblasts",
+   "having colloblasts",
+   "colloblasts"
+  ],
+  "gold_pid": 375,
+  "title": "Ctenophora",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad3bbcc604f3c001a3feecd",
+  "question": "In Sept 1706 who negotiated a capitulation from Montreal?",
+  "golds": [],
+  "gold_pid": 1066,
+  "title": "French_and_Indian_War",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5729eb34af94a219006aa6cd",
+  "question": "In the 1980s what was the population of the amazon region?",
+  "golds": [
+   "200,000.",
+   "less than 200,000",
+   "less than 200,000"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5ad3b3dc604f3c001a3fed69",
+  "question": "How weren't British able to cut supplies to Louisbourg?",
+  "golds": [],
+  "gold_pid": 1054,
+  "title": "French_and_Indian_War",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5727d6faff5b5019007d969a",
+  "question": "What is the center library in the Harvard library system?",
+  "golds": [
+   "Widener Library",
+   "Widener",
+   "Widener Library"
+  ],
+  "gold_pid": 620,
+  "title": "Harvard_University",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "571cb010dd7acb1400e4c12b",
+  "question": "By what process is singlet oxygen made in the tropophere?",
+  "golds": [
+   "photolysis of ozone",
+   "photolysis of ozone",
+   "photolysis of ozone by light of short wavelength",
+   "photolysis of ozone by light of short wavelength",
+   "photolysis"
+  ],
+  "gold_pid": 284,
+  "title": "Oxygen",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5727ec062ca10214002d99ba",
+  "question": "How is income inequality generally viewed by workers?",
+  "golds": [
+   "unfair",
+   "unfair",
+   "unfair"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729f1c13f37b319004785e7",
+  "question": "In many countries, what kind of pay gap is there?",
+  "golds": [
+   "Gender",
+   "ranges from 53% in Botswana to -40% in Bahrain",
+   "Gender"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "56e1efa0e3433e140042321d",
+  "question": "What implication can be derived for P and NP if P and co-NP are established to be unequal?",
+  "golds": [
+   "P is not equal to NP",
+   "not equal",
+   "P is not equal to NP"
+  ],
+  "gold_pid": 78,
+  "title": "Computational_complexity_theory",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a38bd58a4b263001a8c18ed",
+  "question": "What percentage of American gas stations were out of fuel in 1973?",
+  "golds": [],
+  "gold_pid": 318,
+  "title": "1973_oil_crisis",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5726a14c708984140094cc53",
+  "question": "What must the adoption of laws which will have legal effect in the EU have?",
+  "golds": [
+   "a proper legal basis",
+   "a proper legal basis",
+   "a proper legal basis"
+  ],
+  "gold_pid": 350,
+  "title": "European_Union_law",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57302e45947a6a140053d22f",
+  "question": "When did the four rightly guided Caliphs die?",
+  "golds": [
+   "7th century",
+   "the 7th century",
+   "7th century"
+  ],
+  "gold_pid": 933,
+  "title": "Islamism",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5728809f2ca10214002da40e",
+  "question": "What was the Chinese name of Gou's calendar?",
+  "golds": [
+   "Shoushi Li",
+   "\u6388\u6642\u66a6",
+   "\u6388\u6642\u66a6"
+  ],
+  "gold_pid": 722,
+  "title": "Yuan_dynasty",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad50bb95b96ef001a10aab0",
+  "question": "Who was Vrisovci?",
+  "golds": [],
+  "gold_pid": 980,
+  "title": "Warsaw",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad40ec6604f3c001a40012f",
+  "question": "What are sometimes present in the plug's firebox crown?",
+  "golds": [],
+  "gold_pid": 223,
+  "title": "Steam_engine",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57264cc6dd62a815002e80e7",
+  "question": "What did Gasquet's book blame the plague on?",
+  "golds": [
+   "rats and fleas",
+   "rats and fleas",
+   "rats and fleas"
+  ],
+  "gold_pid": 460,
+  "title": "Black_Death",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a8224ea31013a001a335251",
+  "question": "What did local residents do when Forbes announced budget cuts in 2011?",
+  "golds": [],
+  "gold_pid": 614,
+  "title": "Harvard_University",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad25b1cd7d075001a428e66",
+  "question": "What evolved 5.3 billion years ago?",
+  "golds": [],
+  "gold_pid": 291,
+  "title": "Oxygen",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5729f2646aef051400155130",
+  "question": "Where does the Amazon region rate among the entire earth for its amount of biodiversity?",
+  "golds": [
+   "highest on Earth",
+   "the highest",
+   "the highest",
+   "highest"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "572847dd4b864d19001648bd",
+  "question": "What well-known archeologist believed the Amazon didn't have many inhabitants?",
+  "golds": [
+   "Betty Meggers",
+   "Betty Meggers",
+   "Betty Meggers"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5ad4cd245b96ef001a10a110",
+  "question": "What are phagocytes in tissues that only have contact with the internal environment called?",
+  "golds": [],
+  "gold_pid": 748,
+  "title": "Immune_system",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572a0a391d046914007796e0",
+  "question": "What is almost identical across all nations and jurisdictions?",
+  "golds": [
+   "homicides",
+   "homicides"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "572a1fe16aef0514001552d2",
+  "question": "What type of income is the vast majority of the population dependent on?",
+  "golds": [
+   "wage or salary",
+   "wage or salary",
+   "wage or salary"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57339eb9d058e614000b5ef7",
+  "question": "How many museums are in Warsaw?",
+  "golds": [
+   "60",
+   "60",
+   "60"
+  ],
+  "gold_pid": 1017,
+  "title": "Warsaw",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5705fc3a52bb89140068976e",
+  "question": "What is the high end of the temperature range in winter?",
+  "golds": [
+   "70",
+   "70",
+   "70"
+  ],
+  "gold_pid": 103,
+  "title": "Southern_California",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad3ae4f604f3c001a3fec4a",
+  "question": "What title did Sioux give Johnson?",
+  "golds": [],
+  "gold_pid": 1044,
+  "title": "French_and_Indian_War",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57294209af94a219006aa201",
+  "question": "When was the paper published that the \"Millennial Northern Hemisphere temperature reconstruction\" graph was based on?",
+  "golds": [
+   "1999",
+   "1999",
+   "1999"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5733a32bd058e614000b5f32",
+  "question": "Who won the Ekstraklasa Championship in 2000?",
+  "golds": [
+   "Polonia Warsaw",
+   "Polonia Warsaw",
+   "Polonia Warsaw"
+  ],
+  "gold_pid": 1020,
+  "title": "Warsaw",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5725b81b271a42140099d097",
+  "question": "Which name is also used to describe the Amazon rainforest in English?",
+  "golds": [
+   "also known in English as Amazonia or the Amazon Jungle,",
+   "Amazonia or the Amazon Jungle",
+   "Amazonia"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5727f7523acd2414000df110",
+  "question": "What has presented problems to the US economy more than other nations?",
+  "golds": [
+   "technological changes and globalization",
+   "decline of organized labor",
+   "technological changes and globalization"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57293bc91d0469140077919c",
+  "question": "What nationality is Hoesung Lee?",
+  "golds": [
+   "Korean",
+   "onomist",
+   "Korean"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5a637a8868151a001a922304",
+  "question": "Where is the Asian gold miners strongest in Victoria?",
+  "golds": [],
+  "gold_pid": 149,
+  "title": "Victoria_(Australia)",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad414dd604f3c001a4002c7",
+  "question": "What is the cycle condenser sometimes called?",
+  "golds": [],
+  "gold_pid": 262,
+  "title": "Steam_engine",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572815d9ff5b5019007d9cbd",
+  "question": "Which US President visited Jacksonville in 1888?",
+  "golds": [
+   "Grover Cleveland",
+   "Grover Cleveland",
+   "President Grover Cleveland"
+  ],
+  "gold_pid": 637,
+  "title": "Jacksonville,_Florida",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a8945a43b2508001a72a584",
+  "question": "What is the name of an integer in which addition, subtraction, and multiplication are defined?",
+  "golds": [],
+  "gold_pid": 809,
+  "title": "Prime_number",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5725fb8138643c19005acf42",
+  "question": "What is KMJ now referred to?",
+  "golds": [
+   "NBC affiliate KSEE",
+   "NBC affiliate KSEE",
+   "KSEE"
+  ],
+  "gold_pid": 425,
+  "title": "Fresno,_California",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a83894de60761001a2eb789",
+  "question": "What is one thing cilia don't have?",
+  "golds": [],
+  "gold_pid": 388,
+  "title": "Ctenophora",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57293d116aef051400154bc9",
+  "question": "Where do IPCC reports get their information?",
+  "golds": [
+   "available information about climate change based on published sources",
+   "published sources",
+   "peer-reviewed sources"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5728455bff5b5019007da079",
+  "question": "How much dust is blown out of the Sahara each year?",
+  "golds": [
+   "182 million tons",
+   "182 million tons",
+   "182 million tons"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5ad4acbd5b96ef001a109d7a",
+  "question": "What fluids are enzymes not found in?",
+  "golds": [],
+  "gold_pid": 742,
+  "title": "Immune_system",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "57097b50200fba1400368050",
+  "question": "What was the target percentage of households BSkyB wanted to reach?",
+  "golds": [
+   "36%",
+   "36% of households",
+   "2.4m customers"
+  ],
+  "gold_pid": 145,
+  "title": "Sky_(United_Kingdom)",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad3a342604f3c001a3fea5b",
+  "question": "Where were French North Americans unsettled?",
+  "golds": [],
+  "gold_pid": 1032,
+  "title": "French_and_Indian_War",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad26530d7d075001a4291a2",
+  "question": "What does kAp stand for?",
+  "golds": [],
+  "gold_pid": 305,
+  "title": "Oxygen",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5729ea263f37b319004785bd",
+  "question": "A satellite that measured the amount of dust going to the Amazon was named what?",
+  "golds": [
+   "CALIPSO",
+   "CALIPSO",
+   "CALIPSO"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57297d421d046914007794e6",
+  "question": "What is the name of one type of modern primality test?",
+  "golds": [
+   "probabilistic (or \"Monte Carlo\")",
+   "probabilistic (or \"Monte Carlo\")",
+   "probabilistic",
+   "probabilistic",
+   "probabilistic"
+  ],
+  "gold_pid": 794,
+  "title": "Prime_number",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5710e8c8a58dae1900cd6b26",
+  "question": "Which central European country had a Calvinist ruler?",
+  "golds": [
+   "Prussia",
+   "Great Elector Frederick William",
+   "Prussia"
+  ],
+  "gold_pid": 198,
+  "title": "Huguenot",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5733638fd058e614000b59ec",
+  "question": "What were the Saxon Palace and Br\u00fchl Palace in prewar Warsaw?",
+  "golds": [
+   "the most distinctive buildings",
+   "the most distinctive buildings",
+   "most distinctive buildings"
+  ],
+  "gold_pid": 995,
+  "title": "Warsaw",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5710eb6fb654c5140001fa19",
+  "question": "Which Spanish officer established the settlement at St. Augustine?",
+  "golds": [
+   "Pedro Men\u00e9ndez de Avil\u00e9s",
+   "Pedro Men\u00e9ndez de Avil\u00e9s",
+   "Pedro Men\u00e9ndez de Avil\u00e9s"
+  ],
+  "gold_pid": 200,
+  "title": "Huguenot",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a669a2cf038b7001ab0c048",
+  "question": "NSF was a major milestone for what?",
+  "golds": [],
+  "gold_pid": 448,
+  "title": "Packet_switching",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5725c63438643c19005acc9f",
+  "question": "What is the name of the satellite that measured the amount of dust?",
+  "golds": [
+   "CALIPSO",
+   "CALIPSO",
+   "CALIPSO"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5725d42a89a1e219009abf58",
+  "question": "Who wrote \"Walking in Fresno?\"",
+  "golds": [
+   "Bill Aken",
+   "Bill Aken",
+   "Bill Aken"
+  ],
+  "gold_pid": 405,
+  "title": "Fresno,_California",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "572940246aef051400154bee",
+  "question": "Levels of what things are used to determine emission factors?",
+  "golds": [
+   "fuel consumption, industrial production and so on",
+   "Greenhouse Gas Inventories",
+   "fuel consumption, industrial production and so on"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729f4273f37b319004785fd",
+  "question": "What can significantly contribute to the continuing inequality in a society over time?",
+  "golds": [
+   "wealth condensation",
+   "wealth condensation",
+   "wealth condensation"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5a1c8753b4fb5d0018714669",
+  "question": "What other film city struggled as Jacksonville grew in popularity?",
+  "golds": [],
+  "gold_pid": 639,
+  "title": "Jacksonville,_Florida",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5730126ba23a5019007fcd0c",
+  "question": "What sin were the leaders the extremists attacked guilty of?",
+  "golds": [
+   "promoted Western/foreign ideas and practices into Islamic societies",
+   "held secular leanings or who had introduced or promoted Western/foreign ideas and practices into Islamic societies",
+   "secular leanings"
+  ],
+  "gold_pid": 921,
+  "title": "Islamism",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5729d609af94a219006aa661",
+  "question": "What do capitalist firms substitute equipment for in a Marxian analysis?",
+  "golds": [
+   "labor inputs",
+   "labor inputs (workers)",
+   "labor inputs"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5a89357c3b2508001a72a523",
+  "question": "If q=9 and a=3, 6 or 9, how many wraps would be in the progression?",
+  "golds": [],
+  "gold_pid": 799,
+  "title": "Prime_number",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5a55242b134fea001a0e197f",
+  "question": "Level 3 communications launched what? ",
+  "golds": [],
+  "gold_pid": 449,
+  "title": "Packet_switching",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "570d35b7b3d812140066d551",
+  "question": "What is the Victoria state bird?",
+  "golds": [
+   "helmeted honeyeater",
+   "the helmeted honeyeater",
+   "helmeted honeyeater"
+  ],
+  "gold_pid": 160,
+  "title": "Victoria_(Australia)",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57294baaaf94a219006aa26b",
+  "question": "What role did Michael Oppenheimer have in the IPCC's reports?",
+  "golds": [
+   "coordinating lead author of the Fifth Assessment Report",
+   "participant in the IPCC and coordinating lead author of the Fifth Assessment Report",
+   "coordinating lead author of the Fifth Assessment Report"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57284142ff5b5019007da00e",
+  "question": "What is the name of the donor who helped establish the Hutchinson Commons?",
+  "golds": [
+   "Charles L. Hutchinson",
+   "Charles L. Hutchinson",
+   "Charles L. Hutchinson",
+   "Charles L. Hutchinson"
+  ],
+  "gold_pid": 654,
+  "title": "University_of_Chicago",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a678dcef038b7001ab0c2ba",
+  "question": "What category are schools put into that maintain a line between academics and religion?",
+  "golds": [],
+  "gold_pid": 577,
+  "title": "Private_school",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad0309377cf76001a686dc1",
+  "question": "If there is no dissent, the Presiding Officer says what?",
+  "golds": [],
+  "gold_pid": 874,
+  "title": "Scottish_Parliament",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5727ed2e3acd2414000df004",
+  "question": "What can lead to higher wages for members of labor organizations?",
+  "golds": [
+   "collective bargaining, political influence, or corruption",
+   "collective bargaining, political influence, or corruption",
+   "collective bargaining, political influence, or corruption"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57373a9fc3c5551400e51e7d",
+  "question": "What is the strongest main interaction?",
+  "golds": [
+   "strong",
+   "strong",
+   "strong,",
+   "strong",
+   "strong",
+   "strong, electromagnetic"
+  ],
+  "gold_pid": 1072,
+  "title": "Force",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "57296d571d04691400779415",
+  "question": "What theorem defines the main role of primes in number theory?",
+  "golds": [
+   "The fundamental theorem of arithmetic",
+   "fundamental theorem of arithmetic",
+   "arithmetic",
+   "fundamental theorem of arithmetic",
+   "fundamental theorem of arithmetic"
+  ],
+  "gold_pid": 784,
+  "title": "Prime_number",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5728827b2ca10214002da42d",
+  "question": "What had the Yuan used to print its money before bronze plates?",
+  "golds": [
+   "woodblocks",
+   "woodblocks",
+   "woodblocks"
+  ],
+  "gold_pid": 727,
+  "title": "Yuan_dynasty",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a6ceb7a4eec6b001a80a6d0",
+  "question": "What is the slowest growing area in the pharmaceutical industry?",
+  "golds": [],
+  "gold_pid": 519,
+  "title": "Pharmacy",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad26235d7d075001a429083",
+  "question": "What is Fe2O?",
+  "golds": [],
+  "gold_pid": 270,
+  "title": "Oxygen",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "56e1c9bfe3433e1400423194",
+  "question": "According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",
+  "golds": [
+   "reduces",
+   "reduces",
+   "X reduces to Y"
+  ],
+  "gold_pid": 68,
+  "title": "Computational_complexity_theory",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "56de3cd0cffd8e1900b4b6be",
+  "question": "Who did Alexander I marry?",
+  "golds": [
+   "Sybilla of Normandy",
+   "Sybilla of Normandy",
+   "Sybilla"
+  ],
+  "gold_pid": 20,
+  "title": "Normans",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5727ee372ca10214002d99f0",
+  "question": "What type of entrepreneurship leads to advancements in technology?",
+  "golds": [
+   "opportunity-based entrepreneurship",
+   "opportunity-based entrepreneurship",
+   "opportunity-based"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729de24af94a219006aa689",
+  "question": "What increases entrepreneurship rates at the individual level?",
+  "golds": [
+   "higher economic inequality",
+   "higher economic inequality",
+   "higher economic inequality"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729ea263f37b319004785be",
+  "question": "What organization runs the satellite that measured dust that landed on the Amazon?",
+  "golds": [
+   "NASA",
+   "NASA",
+   "NASA's"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57300a25a23a5019007fcc9b",
+  "question": "When was the Rhine crisis?",
+  "golds": [
+   "1840",
+   "1840",
+   "1840"
+  ],
+  "gold_pid": 855,
+  "title": "Rhine",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "572a1c943f37b319004786e3",
+  "question": "Why did the demand for rentals decrease?",
+  "golds": [
+   "demand for higher quality housing increased",
+   "demand for higher quality housing increased",
+   "demand for higher quality housing increased"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5ad24057d7d075001a428930",
+  "question": "How many Huguenots were in France in the early 18th century?",
+  "golds": [],
+  "gold_pid": 181,
+  "title": "Huguenot",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad21e1ad7d075001a42846f",
+  "question": "What is used in photosynthesis and released by cellular respiration? ",
+  "golds": [],
+  "gold_pid": 264,
+  "title": "Oxygen",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad0392577cf76001a686e51",
+  "question": "Mandatory Committees exists in the fifth session of what?",
+  "golds": [],
+  "gold_pid": 878,
+  "title": "Scottish_Parliament",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5a6cb89e4eec6b001a80a640",
+  "question": "Who is a man studying medicinal applicants of plants in Modern Greece?",
+  "golds": [],
+  "gold_pid": 503,
+  "title": "Pharmacy",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5ad0312677cf76001a686dcb",
+  "question": "What was a similar view about the Asian continent not called?",
+  "golds": [],
+  "gold_pid": 958,
+  "title": "Imperialism",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "572951f16aef051400154cce",
+  "question": "How many scientists called to change the IPCC in Feb 2010?",
+  "golds": [
+   "five",
+   "five",
+   "five"
+  ],
+  "gold_pid": null,
+  "title": "Intergovernmental_Panel_on_Climate_Change",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5729f3883f37b319004785f2",
+  "question": "What is a a developing economy's level of inequality bulging out called?",
+  "golds": [
+   "Kuznets curve",
+   "Kuznets curve",
+   "Kuznets curve"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57266e72f1498d1400e8df8e",
+  "question": "What type of ratios are used in geochronologic and thermochronologic studies?",
+  "golds": [
+   "isotope ratios of radioactive elements",
+   "isotope",
+   "isotope",
+   "isotope"
+  ],
+  "gold_pid": 484,
+  "title": "Geology",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5726e3c4dd62a815002e9407",
+  "question": "What do clinical pharmacists often participate in?",
+  "golds": [
+   "patient care rounds drug product selection",
+   "interdisciplinary approach",
+   "patient care rounds drug product selection"
+  ],
+  "gold_pid": 510,
+  "title": "Pharmacy",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5a552252134fea001a0e1964",
+  "question": "KPN referred to Datanet 1 as ",
+  "golds": [],
+  "gold_pid": 447,
+  "title": "Packet_switching",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5727ee372ca10214002d99ee",
+  "question": "What type of motivators are food and shelter considered?",
+  "golds": [
+   "push",
+   "\"push\" motivations",
+   "\"push\""
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5725c63438643c19005acca0",
+  "question": "How many tons of dust are blown from the Sahara each year?",
+  "golds": [
+   "182 million tons",
+   "182 million",
+   "an average 182 million"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "57266e72f1498d1400e8df8d",
+  "question": "The point at which different radiometric isotopes stop diffusing into and out of the crystal lattice is called what?",
+  "golds": [
+   "particular closure temperature",
+   "closure temperature",
+   "closure temperature"
+  ],
+  "gold_pid": 484,
+  "title": "Geology",
+  "condition": "in_answerable"
+ },
+ {
+  "qid": "5ad26dbcd7d075001a4293d8",
+  "question": "In what year did Huguenot refugees first settle in Norwich?",
+  "golds": [],
+  "gold_pid": 214,
+  "title": "Huguenot",
+  "condition": "in_unanswerable"
+ },
+ {
+  "qid": "5727f16c3acd2414000df05b",
+  "question": "What did Standard & Poor recommend to speed economy recovery?",
+  "golds": [
+   "increasing access to education",
+   "increasing access to education",
+   "increasing access to education"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "5725b81b271a42140099d09a",
+  "question": "How many nations contain \"Amazonas\" in their names?",
+  "golds": [
+   "States or departments in four nations contain \"Amazonas\" in their names.",
+   "four",
+   "four"
+  ],
+  "gold_pid": null,
+  "title": "Amazon_rainforest",
+  "condition": "out_of_corpus"
+ },
+ {
+  "qid": "572a0ecb1d04691400779719",
+  "question": "What was persistent unemployment have a negative effect on?",
+  "golds": [
+   "subsequent long-run economic growth",
+   "subsequent long-run economic growth",
+   "long-run economic growth"
+  ],
+  "gold_pid": null,
+  "title": "Economic_inequality",
+  "condition": "out_of_corpus"
+ }
+]
