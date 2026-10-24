@@ -24,18 +24,22 @@ Notes on validation scope: paired bootstrap intervals resample questions (not ar
 Section 1 (regenerating every table from the released logs) has been tested end to end. A new hardware run is a separate, longer procedure.
 
 Copy the contents of `device/` into one directory on the device (e.g. `~/edge_rag_experiment`); all device scripts expect to run from that single directory. By default the scripts run in **strict reproduction mode** (`REPRO=1`): `setup_pi.sh` checks out the pinned llama.cpp commit and installs the exact Python package versions in `requirements_pi.txt` (PyTorch 2.14.1, CPU); BGE-M3 and the NLI checkpoint are loaded at the Hugging Face revisions in `pins.json`; and `verify_models.py` checks the SHA-256 of every GGUF file and aborts on a mismatch. No alternative model provider or NLI checkpoint is used: strict mode selects only the official 7B shards (an alternative GGUF already on disk is ignored), aborts if any pinned artefact is missing or fails its hash check, rejects any unpinned Hugging Face model, stops with a non-zero exit if the NLI checkpoint cannot be loaded, and rebuilds llama.cpp from the pinned commit unless the existing binary was built by `setup_pi.sh` from that commit on a clean tracked tree and still has the SHA-256 recorded at build time (the `llama.cpp/` folder is a disposable dependency checkout and is replaced on rebuild). `bash device/tests/test_strict_mode.sh` checks 25 assertions on these paths offline with synthetic fixtures and exits non-zero if any fails. Setting `REPRO=0` re-enables the exploratory fallbacks used during development (smaller embedding model on low-RAM devices, alternative 7B GGUF source, alternative NLI checkpoint). Pinning was added after the original run and has not itself been re-executed on hardware; the recorded hashes and revisions are those of the original run.
+
 1. `bash setup_pi.sh` - system packages, pinned llama.cpp build, pinned Python environment, SQuAD 2.0 dev, BGE-M3 and Qwen2.5-3B (hash-checked).
 2. `setsid nohup bash run_v2.sh > run_v2.log 2>&1 &` - main study: downloads the 1.5B and 7B models (hash-checked), builds the signed pack, runs the five configurations inside a network namespace (needs a NOPASSWD sudoers rule for `/usr/bin/unshare` only), then analysis (~12 h).
 3. `setsid nohup bash run_v3.sh > run_v3.log 2>&1 &` - variant packs, signed poisoning, first (superseded) NLI verifier.
 4. `bash run_v3b.sh` - final NLI verifier with question-to-declarative rewriting and span check.
 5. `bash run_v3c.sh` - corrected layered verifier, all update-security tests (incl. the mismatched-signer case), model provenance.
+
 Then copy `results_v2/`, `results_v3/`, `questions_v2.json`, `pack_v2_build_stats.json` into `data/` and run Section 1.
 
 ## 3. Pinned artefacts
 `data/results_v3/model_provenance.json` records SHA-256 digests of all GGUF files and the Hugging Face revisions:
+
 - Qwen2.5-Instruct GGUF (official `Qwen/Qwen2.5-*-Instruct-GGUF`, Q4_K_M): 1.5B `6a1a2eb6...e9407e`, 3B `626b4a66...15c62d`, 7B (2 shards) `dfce12e3...0580db`, `539cf93f...f3d72a`
 - `BAAI/bge-m3` revision `5617a9f61b028005a4858fdac845db406aefb181`
 - `cross-encoder/nli-deberta-v3-base` revision `6c749ce3425cd33b46d187e45b92bbf96ee12ec7`
+
 Python package versions on the device: see `data/results_pilot_v1/pip_freeze.txt` (main study) and `data/results_v3/pip_freeze_v3.txt` (v3 experiments).
 
 ## 4. Legacy and corrections (for transparency)
