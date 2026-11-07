@@ -49,11 +49,12 @@ Python package versions on the device: see `data/results_pilot_v1/pip_freeze.txt
 
 ## Licences
 - **Code:** the original code in this repository is released under the MIT licence (see `LICENSE`; copyright holder: securagen.ai P.C.). The MIT licence does not relicense any third-party material listed below.
-- **Data:** SQuAD 2.0 is distributed under CC BY-SA 4.0; the derived passages, questions and per-query outputs in `data/` follow that licence.
+- **Data:** SQuAD 2.0 is distributed under CC BY-SA 4.0; the derived passages, questions and per-query outputs in `data/` follow that licence. Answers generated with Qwen2.5-3B-Instruct (the 3B configurations in `data/results_v2/` and `data/results_v3/`, and the pilot in `data/results_pilot_v1/`) are also subject to the Qwen Research License Agreement.
+- **Purpose of use:** securagen.ai P.C. used all third-party datasets and models in this repository for non-commercial research within its research and development activities, and releases the code and results openly.
 - **Models (not redistributed):** the Qwen2.5-Instruct GGUF files, BGE-M3 and the NLI cross-encoder are downloaded from their Hugging Face pages and remain governed by their own licences (see each model card; for example, Qwen2.5-3B-Instruct is released under the Qwen Research licence, while the 1.5B and 7B models are released under Apache-2.0).
 - **Software dependencies:** llama.cpp and the Python packages in `device/requirements_pi.txt` are used under their respective licences.
 
 ## Citation
 If you use this code or data, please cite the paper (see `CITATION.cff`):
 
-Feretzakis G, Papaspyridis A (2026) Trust mechanisms for offline generative AI at the edge: a connectivity-regime framework and an empirical study on a Raspberry Pi 5. Preprint.
+Feretzakis G, Papaspyridis A (2026) Trust mechanisms for offline generative AI at the edge: a connectivity-regime framework and an empirical study on a Raspberry Pi 5. Preprint, arXiv:2610.33732 (https://arxiv.org/abs/2610.33732). Code and data: Zenodo, https://doi.org/10.5281/zenodo.23620709.
